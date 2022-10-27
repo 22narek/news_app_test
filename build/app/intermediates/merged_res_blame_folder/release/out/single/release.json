@@ -1,9 +1,5 @@
 [
     {
-        "merged": "com.example.news_app-merged_res-7:/layout-v16_notification_template_custom_big.xml.flat",
-        "source": "com.example.news_app-core-1.6.0-11:/layout-v16/notification_template_custom_big.xml"
-    },
-    {
         "merged": "com.example.news_app-merged_res-7:/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
         "source": "com.example.news_app-core-1.6.0-11:/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
     },
@@ -36,20 +32,8 @@
         "source": "com.example.news_app-core-1.6.0-11:/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
     },
     {
-        "merged": "com.example.news_app-merged_res-7:/drawable_launch_background.xml.flat",
-        "source": "com.example.news_app-main-0:/drawable/launch_background.xml"
-    },
-    {
-        "merged": "com.example.news_app-merged_res-7:/layout_notification_action_tombstone.xml.flat",
-        "source": "com.example.news_app-core-1.6.0-11:/layout/notification_action_tombstone.xml"
-    },
-    {
         "merged": "com.example.news_app-merged_res-7:/mipmap-xxhdpi_ic_launcher.png.flat",
         "source": "com.example.news_app-main-0:/mipmap-xxhdpi/ic_launcher.png"
-    },
-    {
-        "merged": "com.example.news_app-merged_res-7:/layout_notification_template_icon_group.xml.flat",
-        "source": "com.example.news_app-core-1.6.0-11:/layout/notification_template_icon_group.xml"
     },
     {
         "merged": "com.example.news_app-merged_res-7:/drawable_notification_bg_low.xml.flat",
@@ -114,10 +98,6 @@
     {
         "merged": "com.example.news_app-merged_res-7:/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
         "source": "com.example.news_app-core-1.6.0-11:/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
-    },
-    {
-        "merged": "com.example.news_app-merged_res-7:/layout_notification_action.xml.flat",
-        "source": "com.example.news_app-core-1.6.0-11:/layout/notification_action.xml"
     },
     {
         "merged": "com.example.news_app-merged_res-7:/layout-v21_notification_action.xml.flat",

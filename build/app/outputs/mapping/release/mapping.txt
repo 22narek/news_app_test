@@ -1,10 +1,10 @@
 # compiler: R8
 # compiler_version: 3.2.47
-# min_api: 16
+# min_api: 21
 # common_typos_disable
 # {"id":"com.android.tools.r8.mapping","version":"2.0"}
-# pg_map_id: aca8b29
-# pg_map_hash: SHA-256 aca8b29fb65421a8ae54ab129080efeb7958a0f7f92ef1b59875e41122bf44cb
+# pg_map_id: c5c1790
+# pg_map_hash: SHA-256 c5c17901920d6788ff0c09017fdadd8cebc376a30e5e92373f417efc5c73647b
 androidx.activity.Cancellable -> androidx.activity.a:
 androidx.activity.ComponentActivity$2 -> androidx.activity.ComponentActivity$2:
     void onStateChanged(androidx.lifecycle.LifecycleOwner,androidx.lifecycle.Lifecycle$Event) -> g
@@ -3446,9 +3446,8 @@ io.flutter.view.VsyncWaiter -> io.flutter.view.e:
     io.flutter.embedding.engine.FlutterJNI access$100(io.flutter.view.VsyncWaiter) -> c
     io.flutter.view.VsyncWaiter$FrameCallback access$200(io.flutter.view.VsyncWaiter) -> d
     io.flutter.view.VsyncWaiter$FrameCallback access$202(io.flutter.view.VsyncWaiter,io.flutter.view.VsyncWaiter$FrameCallback) -> e
-    io.flutter.view.VsyncWaiter getInstance(float,io.flutter.embedding.engine.FlutterJNI) -> f
-    io.flutter.view.VsyncWaiter getInstance(android.hardware.display.DisplayManager,io.flutter.embedding.engine.FlutterJNI) -> g
-    void init() -> h
+    io.flutter.view.VsyncWaiter getInstance(android.hardware.display.DisplayManager,io.flutter.embedding.engine.FlutterJNI) -> f
+    void init() -> g
 io.flutter.view.VsyncWaiter$1 -> io.flutter.view.e$a:
     io.flutter.view.VsyncWaiter this$0 -> a
     void asyncWaitForVsync(long) -> a

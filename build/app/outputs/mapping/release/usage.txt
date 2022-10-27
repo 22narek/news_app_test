@@ -10607,6 +10607,8 @@ io.flutter.plugin.platform.PlatformView$-CC
 io.flutter.plugin.platform.VirtualDisplayController:
     private static java.lang.String TAG
 io.flutter.view.TextureRegistry$SurfaceTextureEntry$-CC
+io.flutter.view.VsyncWaiter:
+    public static io.flutter.view.VsyncWaiter getInstance(float,io.flutter.embedding.engine.FlutterJNI)
 kotlin.collections.ArraysKt:
     public static synthetic bridge java.util.List sortedWith(java.lang.Object[],java.util.Comparator)
 kotlin.collections.ArraysKt___ArraysJvmKt:
