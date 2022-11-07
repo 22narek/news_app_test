@@ -20,10 +20,6 @@
         "source": "com.example.news_app-main-1:/mipmap-xhdpi/ic_launcher.png"
     },
     {
-        "merged": "com.example.news_app-merged_res-7:/drawable_launch_background.xml.flat",
-        "source": "com.example.news_app-main-1:/drawable/launch_background.xml"
-    },
-    {
         "merged": "com.example.news_app-merged_res-7:/mipmap-xxxhdpi_ic_launcher.png.flat",
         "source": "com.example.news_app-main-1:/mipmap-xxxhdpi/ic_launcher.png"
     }

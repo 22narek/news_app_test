@@ -1,16 +1,24 @@
-# news_app
 
-A new Flutter project.
+# News App
 
-## Getting Started
+I made a news application on dart/flutter for a test assignment
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- BloC - state manager
+- NewsApi 
+- SQFlite
+- Slivers
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+## Demo
+
+
+![demo](https://user-images.githubusercontent.com/53962148/199696653-e559d5f6-805e-4bb6-9b69-37e8516c5f7d.gif)
+
+
+## 🔗 Links
+[![telegram](https://img.shields.io/badge/telegram-9cf?style=for-the-badge&logo=telegram&logoColor=blue)](https://t.me/narekp)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/22narek)
+[![resume](https://img.shields.io/badge/RESUME-87CEFA?style=for-the-badge&logo=dart&logoColor=black)](https://disk.yandex.ru/d/v10ab-f5wxc-FQ)
